@@ -5,5 +5,10 @@ This app used for authenticated users to view the object detected name from the 
 
 
 Android Studio is used for app development.
-UI:
+
+
+1.UI:
+
+
+
 
