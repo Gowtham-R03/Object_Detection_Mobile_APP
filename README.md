@@ -31,3 +31,15 @@ Android Studio is used for app development.
 
 
 ![1](https://user-images.githubusercontent.com/83824286/126054535-a46833c6-ae93-45a1-a620-e3170994733c.jpg)
+
+
+
+Firebase Firestore:
+
+
+![Screenshot (142)](https://user-images.githubusercontent.com/83824286/126054691-26408b80-aad7-4040-b338-2ff88efada5d.png)
+
+
+
+The above-stored data is actually from classes detected from the targeted camera this works by python scripts
+
