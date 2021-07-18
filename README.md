@@ -37,7 +37,8 @@ Android Studio is used for app development.
 Firebase Firestore:
 
 
-![Screenshot (142)](https://user-images.githubusercontent.com/83824286/126054691-26408b80-aad7-4040-b338-2ff88efada5d.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/83824286/126054776-bf57eb9c-5196-48b2-be21-dfb7d8b0f268.png)
+
 
 
 
