@@ -7,8 +7,27 @@ This app used for authenticated users to view the object detected name from the 
 Android Studio is used for app development.
 
 
-1.UI:
+1.UI- Login:
+
+
+![4](https://user-images.githubusercontent.com/83824286/126054574-6d50b534-8081-49d2-a038-27f8e7137192.jpg)
+
+
+2.Signup:
+
+
+![3](https://user-images.githubusercontent.com/83824286/126054567-2a87e172-0cc4-4883-aec7-3f5b3f1e5584.jpg)
 
 
 
+3.Loggedin:
 
+
+
+![2](https://user-images.githubusercontent.com/83824286/126054559-27a2dfd3-7475-4a7e-a9ee-edac0bfca456.jpg)
+
+
+4.Data Dashboard:
+
+
+![1](https://user-images.githubusercontent.com/83824286/126054535-a46833c6-ae93-45a1-a620-e3170994733c.jpg)
